@@ -1,0 +1,27 @@
+h1{ 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: brown;
+    font-weight: 200;
+
+}
+p{
+    text-align: justify;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+ul{
+    list-style: none;
+}
+li{
+    color: red;
+    font-style: italic;
+    text-align:none;
+
+}
+body{
+    background-color: beige;
+
+
+}
