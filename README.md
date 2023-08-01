@@ -15,7 +15,7 @@ HTML 5.0 is the version used to desin the webpage.
 ##### Description.
 Sauti sol is my favorite band.This is becouse of their unique blend of Afro-pop and contemporary R$B.
 The webpage is built using HTMLand styled using CSS.
-I heve posted this webpage on GitHub pages .use the link to run the webpage
+I heve posted this webpage on GitHub pages .use the link to run the webpage https://eric0910.github.io/sauti-sol-band/
 ###### Lincense.
 I invite the community to pull suggestions on improving the webpage.
 Feel free to edit and make your own webpage for your favorite band.
