@@ -2,7 +2,8 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
     color: black;
-    font-weight: 200;
+    font-weight: bold;
+    
 
 }
 p{
@@ -16,12 +17,13 @@ ul{
 }
 li{
     color: red;
-    font-style: italic;
+    font-style: normal;
     text-align:none;
 
 }
 body{
     background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
 
 
 }
